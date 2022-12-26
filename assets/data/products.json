@@ -1,0 +1,37 @@
+[{
+    "_id": {
+        "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2Fimages%2Fproducts%2Flerhamn-chair-black-brown-vittaryd-beige__0728160_pe736117_s5.jpg%3Ff%3Ds&imgrefurl=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2Fp%2Flerhamn-chair-black-brown-vittaryd-beige-80268641%2F&tbnid=HdCyuBNkcVDMXM&vet=12ahUKEwjThumQ1Jf8AhX8ynMBHZs4DTIQMygAegUIARDoAQ..i&docid=fY06677Lw2U7yM&w=600&h=600&q=chair&ved=2ahUKEwjThumQ1Jf8AhX8ynMBHZs4DTIQMygAegUIARDoAQ",
+    "brand": "PS3",
+    "price": 250,
+    "rating": 1,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "FIFA 20",
+    "description": "The most hard FiFA ever",
+    "category": {
+        "$oid":"5f15dcdcba025143f9593a7c"
+    },
+    "countInStock": 25,
+    "__v":0
+
+},
+{
+    "_id": {
+        "$oid": "5f15d9952a7801p3f9593a7c"
+    },
+    "image": "Should be some path",
+    "brand": "KT94",
+    "price": 450,
+    "rating": 5,
+    "numReviews": 3,
+    "isFeatured": true,
+    "name": "Garden Chair",
+    "description": "The most hard cricket",
+    "category": {
+        "$oid":"5f15dcdcba02894par593a7c"
+    },
+    "countInStock": 12,
+    "__v":1
+}]
